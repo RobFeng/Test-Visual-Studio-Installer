@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33513.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "clawPDF_setup", "clawPDF_setup\clawPDF_setup.vdproj", "{F9D814CF-B96F-F7AA-CACD-F7DCA4C77D58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Build", "_Build", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		_Build\a.txt = _Build\a.txt
+		_Build\b.txt = _Build\b.txt
+		_Build\c.txt = _Build\c.txt
+		_Build\not allow delete.txt = _Build\not allow delete.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9D814CF-B96F-F7AA-CACD-F7DCA4C77D58}.Debug|Default.ActiveCfg = Debug
+		{F9D814CF-B96F-F7AA-CACD-F7DCA4C77D58}.Debug|Default.Build.0 = Debug
+		{F9D814CF-B96F-F7AA-CACD-F7DCA4C77D58}.Release|Default.ActiveCfg = Release
+		{F9D814CF-B96F-F7AA-CACD-F7DCA4C77D58}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E1EDC79-B996-4708-828F-773DA0A7AD09}
+	EndGlobalSection
+EndGlobal
