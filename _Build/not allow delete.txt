@@ -1,2 +1,4 @@
+v0.1
+
 Test uninstall still keep this file.
 如果在卸载时想保留某些文件，则把对应文件的属性值Parmanent=true

@@ -1,4 +1,6 @@
-B - Test updated file will not update after install
+v0.1
+
+B - Test updated file will not update after re-install
 
 Visual Studio Setup Project conditional if File Exists
 https://stackoverflow.com/questions/4102503/visual-studio-setup-project-conditional-if-file-exists
