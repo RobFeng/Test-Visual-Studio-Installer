@@ -1,4 +1,4 @@
-﻿"DeployProject"
+"DeployProject"
 {
 "VSVersion" = "3:800"
 "ProjectType" = "8:{978C614F-708E-4E1A-B201-565925725DBA}"
@@ -218,7 +218,7 @@
             }
             "{3C67513D-01DD-4637-8A68-80971EB9504F}:_6D653F6EE3324579B145A191268F8DEA"
             {
-            "DefaultLocation" = "8:[ProgramFilesFolder]clawpdf"
+            "DefaultLocation" = "8:[ProgramFiles64Folder]clawpdf"
             "Name" = "8:#1925"
             "AlwaysCreate" = "11:FALSE"
             "Condition" = "8:"
