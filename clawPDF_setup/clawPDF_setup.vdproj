@@ -282,7 +282,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:clawPDF"
         "ProductCode" = "8:{001AAE7F-9C3E-416C-8141-8178A480E45A}"
-        "PackageCode" = "8:{9520CB17-743A-46CC-B5F2-3EA8D5024778}"
+        "PackageCode" = "8:{B4C06C46-D999-4C27-8FEB-35EAEE5B3E6F}"
         "UpgradeCode" = "8:{001BBE7F-9C3E-416C-8141-8178A480E45A}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
@@ -346,6 +346,20 @@
         }
         "Shortcut"
         {
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_FFA080F2A1334F9B8101BA1B33CA21EB"
+            {
+            "Name" = "8:Shortcut to a.txt"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_5C125D280773426A9091CE0DE448FA94"
+            "Folder" = "8:_DF3564B282234515BEE9E5AE9E46A79C"
+            "WorkingFolder" = "8:_42B91058BE674C9D916FCFBE3E19DD91"
+            "Icon" = "8:"
+            "Feature" = "8:"
+            }
         }
         "UserInterface"
         {
