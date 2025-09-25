@@ -218,7 +218,7 @@
             }
             "{3C67513D-01DD-4637-8A68-80971EB9504F}:_6D653F6EE3324579B145A191268F8DEA"
             {
-            "DefaultLocation" = "8:[ProgramFiles64Folder]clawpdf"
+            "DefaultLocation" = "8:C:\\clawpdf"
             "Name" = "8:#1925"
             "AlwaysCreate" = "11:FALSE"
             "Condition" = "8:"
